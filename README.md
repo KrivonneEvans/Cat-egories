@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *Krivonne Evans*
-##  About Me
-_ I'm a cat-loving individual who spent 6 years in the military and is now attending UTSA as a Cybersecurity and IS major. I enjoy sweet treats, exercising at the gym, playing games with friends, and sleeping._
+##  Hi, I'm *Krivonne Evans* ✨
+##  About Me 
+I'm a cat-loving individual who spent 6 years in the military and is now attending UTSA as a Cybersecurity and IS major 🤓. I enjoy sweet treats 🍫😋, exercising at the gym💪, playing games with friends🎮, and sleeping😴.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _ I'm a cat-loving individual who spent 6 years in the military and is now atten
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"To be or not to be... that is the question"_
+"To be or not to be... that is the question"
